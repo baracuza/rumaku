@@ -7,10 +7,10 @@
   <link rel="stylesheet" href="css/footer.css">
   <title>footer</title>
 </head>
-
+<!-- test -->
 
 <body>
-  <!-- footer.php -->
+  <!-- footer.php -->c
 
   <footer>
     <div class="container1">
