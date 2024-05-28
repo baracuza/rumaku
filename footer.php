@@ -10,7 +10,7 @@
 <!-- test -->
 
 <body>
-  <!-- footer.php -->c
+  <!-- footer.php -->
 
   <footer>
     <div class="container1">
